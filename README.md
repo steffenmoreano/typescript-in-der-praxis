@@ -25,8 +25,11 @@ Installiere Node.js und nutze npm/yarn zum Installieren der Beispiele.
 cd chapter-10-react-typescript/
 npm install
 npm run dev
-``
+```
 
 📬 Kontakt
 Fragen oder Feedback?
 Öffne ein Issue oder erstelle eine Pull Request! 🚀
+
+Let’s build better code. 🚀
+#TypeScriptInDerPraxis
