@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0cc62d64-f358-49e1-943e-3fcd28d9f517" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-01-introduction/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-02-type-system/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-03-functions-and-types/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-04-oop-typescript/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-05-project-structure/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-06-typing-third-party/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-07-strict-typing/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-08-generics/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-09-clean-code/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-10-react-typescript/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-11-api-datamodels/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-12-state-management/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-13-testing-typescript/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-14-deployment-build/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-15-freelance-practice/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-16-interview-questions/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter-17-resources-deepdives/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript-in-der-praxis.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +38,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -23,7 +53,9 @@
   "associatedIndex": 7
 }]]></component>
   <component name="ProjectId" id="2wK28dUewm9jvxlS72D4tAq5oeV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,21 +65,23 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/steffen/Documents/Projekte/Bücher/typescript-in-der-praxis",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/chapter-13-testing-typescript" />
+      <recent name="$PROJECT_DIR$/chapter-12-state-management" />
+      <recent name="$PROJECT_DIR$/chapter-11-api-datamodels" />
+      <recent name="$PROJECT_DIR$/chapter-10-react-typescript" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -57,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1745775788350</updated>
-      <workItem from="1745775789738" duration="2000" />
+      <workItem from="1745775789738" duration="1040000" />
     </task>
     <servers />
   </component>
